@@ -537,7 +537,7 @@ table {
 .sidebar .seccion-1 h1{
     font-size: 24px;
     font-weight: 900;
-    margin-bottom: 10px;
+    margin-bottom: 0px;
     line-height: 30px;
     margin-top: 10px;
 }
