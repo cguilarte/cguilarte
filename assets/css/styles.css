@@ -665,11 +665,12 @@ ul.contacto li a{
 .box p.tags small{
     background-color: #f8f8f8;
     padding: 4px 8px;
-    border-radius: 10px;
-    color: #8c8c8c;
+    border-radius: 25px;
+    color: #3f3f3f;
     margin-bottom: 5px;
     display: inline-block;
     text-transform: capitalize;
+    border: 1px solid #ababab;
 }
 
 
