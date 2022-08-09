@@ -639,11 +639,18 @@ ul.contacto li a{
 }
     
 .box .items{
-    padding-top: 30px;
+    padding-top: 20px;
+    border-bottom: 1px dashed #ddd;
+    padding-bottom: 20px;
 }
 
 .box .items:first-of-type{
     padding-top: 0px;
+}
+
+.box .items:last-of-type{
+   border: 0;
+   padding-bottom: 0;
 }
 .box p{
     font-size: 0.875rem;
