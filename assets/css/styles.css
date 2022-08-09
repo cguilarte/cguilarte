@@ -558,10 +558,12 @@ ul.contacto,.interes ul{
 }
 
 ul.contacto li{
-    padding-bottom: 10px;
+    padding-bottom: 10px;  
 }
 
-
+ul.contacto li a:hover{
+    text-decoration:underline
+}
 .interes h2,.educacion h2, .habilidades h2{
     margin: 0;
     padding-bottom: 10px;
